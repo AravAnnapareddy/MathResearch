@@ -1,7 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-# github hello
+# github
 
 
 def compute_side_length(p1, p2):
